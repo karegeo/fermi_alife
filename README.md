@@ -1,23 +1,39 @@
-# fermi_alife
-Fermi Paradox in Artificial Life
+# The Fermi Paradox in Artificial Life
 
+**🛰 Live site:** <https://karegeo.github.io/fermi_alife>
 
-This is a repository for "The Fermi Paradox in Artificial Life" project.
-Here you can find updated version of the paper and presentation.
-https://karegeo.github.io/fermi_alife
+This repository hosts the project website and an extended, updated list of
+references for **"The Fermi Paradox in Artificial Life"** — a project
+exploring the connections between Artificial Life (ALife) and the Search
+for Extraterrestrial Intelligence (SETI). Updated versions of the paper
+and presentation will be linked from the site as they become available.
 
-This webpage is also under construction right now
+## Contributing references
 
+If you know of additional sources (papers, talks, workshops, book chapters,
+essays) that belong on the site, please
+[open an issue](https://github.com/karegeo/fermi_alife/issues/new) with the
+citation and (ideally) a link.
 
-Extended and updated refrences. If you have information about more sources, please add them as "Issue" to this repository.
+## Selected references
 
-Some papers and other works which connects Artificial Life and SETI:
+Some papers and other works connecting Artificial Life and SETI:
 
-Harrison B. Smith, Lana Sinapayen; July 22–26, 2024. "Planetary Scale Replication as an Agnostic Biosignature." Proceedings of the ALIFE 2024.
-Michael L. Wong, Stuart Bartlett; July 18–22, 2022. "On the Trajectories of Planetary Civilizations: Asymptotic Burnout vs. Homeostatic Awakening." Proceedings of the ALIFE 2022.
-Hikaru Furukawa, Sara Imari Walker; July 23–27, 2018. "Major Transitions in Planetary Evolution." Proceedings of the ALIFE 2018.
-M.L Lupisella;  “Using Artificial Life to assess the typicality of terrestrial life,  Advances in Space Research.” Advances in Space Research, Volume 33, Issue 8,  2004.
-“Synthesizing Existence: ALife, AI, and the Fermi Paradox Workshop.” 2023.
-“Exploring Exoplanets: The Search for Extraterrestrial Life and Post-Biological Intelligence.” International symposium, 2015.
-Works of  David Kipping, Clement Vidal, Milan M. Cirkovic, etc
+- Harrison B. Smith, Lana Sinapayen (2024). *Planetary Scale Replication as
+  an Agnostic Biosignature.* Proceedings of ALIFE 2024.
+- Michael L. Wong, Stuart Bartlett (2022). *On the Trajectories of Planetary
+  Civilizations: Asymptotic Burnout vs. Homeostatic Awakening.*
+  Proceedings of ALIFE 2022.
+- Hikaru Furukawa, Sara Imari Walker (2018). *Major Transitions in Planetary
+  Evolution.* Proceedings of ALIFE 2018.
+- M. L. Lupisella (2004). *Using Artificial Life to assess the typicality of
+  terrestrial life.* Advances in Space Research, 33(8).
+- Sir Martin Rees. *Why First Contact Could Be With Artificial Life.*
+  SETI League editorial. <https://www.setileague.org/editor/Rees.htm>
+- *Synthesizing Existence: ALife, AI, and the Fermi Paradox Workshop* (2023).
+- *Exploring Exoplanets: The Search for Extraterrestrial Life and
+  Post-Biological Intelligence* — international symposium (2015).
+- Works of David Kipping, Clément Vidal, Milan M. Ćirković, and others.
 
+See the [project website](https://karegeo.github.io/fermi_alife) for the
+formatted reference list and project description.
