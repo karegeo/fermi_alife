@@ -7,8 +7,7 @@ description: A project applying the Fermi Paradox and the Great Filter framework
 <p style="font-size:0.9rem; color:#666; margin: 0 0 1rem;">
   &larr; <a href="https://karegeo.github.io/">karegeo.github.io</a>
   (main page) &nbsp;·&nbsp;
-  <strong>Last updated:</strong> 16 May 2026 &nbsp;·&nbsp;
-  <em>If you can see this date, the latest changes have deployed.</em>
+  <strong>Last updated:</strong> 16 May 2026, 06:37 UTC
 </p>
 
 > *"Where is everybody?"* &mdash; Enrico Fermi
@@ -314,6 +313,6 @@ You can also share this page with the QR code below:
 ---
 
 *This site is a living document and is under active construction.*
-*Last updated: 16 May 2026.*
+*Last updated: 16 May 2026, 06:37 UTC.*
 
 [&larr; Back to karegeo.github.io](https://karegeo.github.io/)
