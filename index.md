@@ -7,7 +7,7 @@ description: A project applying the Fermi Paradox and the Great Filter framework
 <p style="font-size:0.9rem; color:#666; margin: 0 0 1rem;">
   &larr; <a href="https://karegeo.github.io/">karegeo.github.io</a>
   (main page) &nbsp;·&nbsp;
-  <strong>Last updated:</strong> 15 May 2026 &nbsp;·&nbsp;
+  <strong>Last updated:</strong> 16 May 2026 &nbsp;·&nbsp;
   <em>If you can see this date, the latest changes have deployed.</em>
 </p>
 
@@ -141,28 +141,34 @@ By analogy with the Drake equation, the project proposes a toy estimator
 for the expected number of spontaneous, evolvable digital
 self-replicators:
 
-```
-N_ALife  =  P_rules · P_repl · P_OEE · ( N_hosts · F_comp · T_runtime / C_threshold )
-```
+$$
+N_{\rm ALife}
+\;=\;
+P_{\rm rules}\,
+P_{\rm repl}\,
+P_{\rm OEE}\,
+\frac{N_{\rm hosts}\, F_{\rm comp}\, T_{\rm runtime}}{C_{\rm threshold}}
+$$
 
 where
 
-- **P<sub>rules</sub>** — probability that a host runs an experiment whose
+- $P_{\rm rules}$ — probability that a host runs an experiment whose
   update rules, initial and boundary conditions, and spatial structure
   *permit* life-like dynamics.
-- **P<sub>repl</sub>** — probability that an evolvable replicator emerges
+- $P_{\rm repl}$ — probability that an evolvable replicator emerges
   inside such an environment.
-- **P<sub>OEE</sub>** — probability that the emerged replicator can
+- $P_{\rm OEE}$ — probability that the emerged replicator can
   *sustain* open-ended evolution rather than stagnating or collapsing.
-- **N<sub>hosts</sub>** — number of computers available.
-- **F<sub>comp</sub>** — average computational power per host (e.g., FLOP/s).
-- **T<sub>runtime</sub>** — duration of computation (seconds).
-- **C<sub>threshold</sub>** — operations (e.g., FLOPs) needed for the
+- $N_{\rm hosts}$ — number of computers available.
+- $F_{\rm comp}$ — average computational power per host (e.g., FLOP/s).
+- $T_{\rm runtime}$ — duration of computation (seconds).
+- $C_{\rm threshold}$ — operations (e.g., FLOPs) needed for the
   emergence of a replicator.
 
-The bracketed term measures the normalised computational budget in units
-of *emergence opportunities*. Like the Drake equation, the model is not
-intended to predict numbers, but to highlight which factors might act as
+The fraction $N_{\rm hosts}\, F_{\rm comp}\, T_{\rm runtime} / C_{\rm threshold}$
+measures the normalised computational budget in units of *emergence
+opportunities*. Like the Drake equation, the model is not intended to
+predict numbers, but to highlight which factors might act as
 *computational Great Filters* — practical bottlenecks one can target
 experimentally, and a way to compare digital, analog, and hybrid
 substrates on the same axis.
@@ -294,6 +300,6 @@ You can also share this page with the QR code below:
 ---
 
 *This site is a living document and is under active construction.*
-*Last updated: 15 May 2026.*
+*Last updated: 16 May 2026.*
 
 [&larr; Back to karegeo.github.io](https://karegeo.github.io/)
