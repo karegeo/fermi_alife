@@ -38,8 +38,15 @@ spontaneously emerging* self-replicators is itself a kind of *Great
 Silence* — and that the Great-Filter framework developed in astrobiology
 and SETI offers a productive lens on what is going on.
 
-Updated versions of the paper and the presentation will be linked here
-as they become available.
+### Project paper
+
+> **Karelin, G.** (2025). *The Fermi Paradox in Artificial Life.* In
+> *ALIFE 2025: Ciphers of Life — Proceedings of the Artificial Life
+> Conference 2025*, Kyoto, Japan, 6–10 October 2025, p. 11. ASME.
+> DOI:&nbsp;[10.1162/ISAL.a.839](https://doi.org/10.1162/ISAL.a.839)
+
+Updated versions of the paper and the accompanying presentation will be
+linked here as they become available.
 
 *Tags: Astrobiology · SETI · Artificial Life · Fermi Paradox · Great Filter · Digital Abiogenesis.*
 
@@ -209,6 +216,13 @@ artificial entities the question is about.
 If you know of additional sources, please
 [open an issue](https://github.com/karegeo/fermi_alife/issues/new) on
 the repository.
+
+### This project
+
+- **Karelin, G.** (2025). *The Fermi Paradox in Artificial Life.* In
+  *ALIFE 2025: Ciphers of Life — Proceedings of the Artificial Life
+  Conference 2025*, Kyoto, Japan, 6–10 October 2025, p. 11. ASME.
+  DOI:&nbsp;[10.1162/ISAL.a.839](https://doi.org/10.1162/ISAL.a.839)
 
 ### Core: Fermi paradox, Great Filter, and astrobiology
 
