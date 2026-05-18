@@ -283,11 +283,14 @@ the repository.
 - **Rees, Sir Martin** (UK Astronomer Royal). *Why First Contact Could
   Be With Artificial Life.* SETI League editorial —
   [setileague.org/editor/Rees.htm](https://www.setileague.org/editor/Rees.htm)
-- *Rare AI and the Fermi Paradox* (2025). LessWrong post — argues that
-  either technological-singularity events are lethally self-terminating
-  to both their creators and their AI creations, or that humanity is
-  the first intelligent species in galactic history to reach this
-  threshold (a "Rare Intelligence" solution to the Fermi paradox).
+- **dawnstrata** (15 August 2025). *Rare AI and the Fermi Paradox.*
+  LessWrong — argues that either technological-singularity events are
+  lethally self-terminating to both their creators and their AI
+  creations, or that humanity is the first intelligent species in
+  galactic history to reach this threshold (a "Rare Intelligence"
+  solution to the Fermi paradox); engages directly with Rees & Livio
+  (2024) on whether AI could be aggressive enough to be fatal to its
+  creators yet also completely non-expansionist after that point.
   [lesswrong.com/posts/jJPTRextDe3chGjho/rare-ai-and-the-fermi-paradox](https://www.lesswrong.com/posts/jJPTRextDe3chGjho/rare-ai-and-the-fermi-paradox)
 
 ### Workshops and symposia
