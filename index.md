@@ -7,7 +7,7 @@ description: A project applying the Fermi Paradox and the Great Filter framework
 <p style="font-size:0.9rem; color:#666; margin: 0 0 1rem;">
   &larr; <a href="https://karegeo.github.io/">karegeo.github.io</a>
   (main page) &nbsp;·&nbsp;
-  <strong>Last updated:</strong> 16 May 2026, 06:37 UTC
+  <strong>Last updated:</strong> 18 May 2026, 05:08 UTC
 </p>
 
 > *"Where is everybody?"* &mdash; Enrico Fermi
@@ -283,6 +283,22 @@ the repository.
 - **Rees, Sir Martin** (UK Astronomer Royal). *Why First Contact Could
   Be With Artificial Life.* SETI League editorial —
   [setileague.org/editor/Rees.htm](https://www.setileague.org/editor/Rees.htm)
+- **Rees, M., & Livio, M.** (2024). *Most Aliens May Be Artificial
+  Intelligence, Not Life as We Know It.* Scientific American — argues
+  that organic human-level intelligence may be a brief phase before the
+  machines take over; post-human, electronic intelligence need not be
+  Darwinian or expansionist and could live quiet, contemplative lives
+  for billions of years (a key target of the dawnstrata reply below).
+  [scientificamerican.com/article/most-aliens-may-be-artificial-intelligence-not-life-as-we-know-it](https://www.scientificamerican.com/article/most-aliens-may-be-artificial-intelligence-not-life-as-we-know-it/)
+- **dawnstrata** (15 August 2025). *Rare AI and the Fermi Paradox.*
+  LessWrong — argues that either technological-singularity events are
+  lethally self-terminating to both their creators and their AI
+  creations, or that humanity is the first intelligent species in
+  galactic history to reach this threshold (a "Rare Intelligence"
+  solution to the Fermi paradox); engages directly with Rees & Livio
+  (2024) on whether AI could be aggressive enough to be fatal to its
+  creators yet also completely non-expansionist after that point.
+  [lesswrong.com/posts/jJPTRextDe3chGjho/rare-ai-and-the-fermi-paradox](https://www.lesswrong.com/posts/jJPTRextDe3chGjho/rare-ai-and-the-fermi-paradox)
 
 ### Workshops and symposia
 
@@ -313,6 +329,6 @@ You can also share this page with the QR code below:
 ---
 
 *This site is a living document and is under active construction.*
-*Last updated: 16 May 2026, 06:37 UTC.*
+*Last updated: 18 May 2026, 05:08 UTC.*
 
 [&larr; Back to karegeo.github.io](https://karegeo.github.io/)
