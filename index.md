@@ -7,8 +7,7 @@ description: A project applying the Fermi Paradox and the Great Filter framework
 <p style="font-size:0.9rem; color:#666; margin: 0 0 1rem;">
   &larr; <a href="https://karegeo.github.io/">karegeo.github.io</a>
   (main page) &nbsp;·&nbsp;
-  <strong>Last updated:</strong> 16 May 2026 &nbsp;·&nbsp;
-  <em>If you can see this date, the latest changes have deployed.</em>
+  <strong>Last updated:</strong> 16 May 2026, 06:37 UTC
 </p>
 
 > *"Where is everybody?"* &mdash; Enrico Fermi
@@ -38,8 +37,15 @@ spontaneously emerging* self-replicators is itself a kind of *Great
 Silence* — and that the Great-Filter framework developed in astrobiology
 and SETI offers a productive lens on what is going on.
 
-Updated versions of the paper and the presentation will be linked here
-as they become available.
+### Project paper
+
+> **Karelin, G.** (2025). *The Fermi Paradox in Artificial Life.* In
+> *ALIFE 2025: Ciphers of Life — Proceedings of the Artificial Life
+> Conference 2025*, Kyoto, Japan, 6–10 October 2025, p. 11. ASME.
+> DOI:&nbsp;[10.1162/ISAL.a.839](https://doi.org/10.1162/ISAL.a.839)
+
+Updated versions of the paper and the accompanying presentation will be
+linked here as they become available.
 
 *Tags: Astrobiology · SETI · Artificial Life · Fermi Paradox · Great Filter · Digital Abiogenesis.*
 
@@ -210,6 +216,13 @@ If you know of additional sources, please
 [open an issue](https://github.com/karegeo/fermi_alife/issues/new) on
 the repository.
 
+### This project
+
+- **Karelin, G.** (2025). *The Fermi Paradox in Artificial Life.* In
+  *ALIFE 2025: Ciphers of Life — Proceedings of the Artificial Life
+  Conference 2025*, Kyoto, Japan, 6–10 October 2025, p. 11. ASME.
+  DOI:&nbsp;[10.1162/ISAL.a.839](https://doi.org/10.1162/ISAL.a.839)
+
 ### Core: Fermi paradox, Great Filter, and astrobiology
 
 - **Hart, M. H.** (1975). *An Explanation for the Absence of
@@ -300,6 +313,6 @@ You can also share this page with the QR code below:
 ---
 
 *This site is a living document and is under active construction.*
-*Last updated: 16 May 2026.*
+*Last updated: 16 May 2026, 06:37 UTC.*
 
 [&larr; Back to karegeo.github.io](https://karegeo.github.io/)

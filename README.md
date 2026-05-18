@@ -5,8 +5,16 @@
 This repository hosts the project website and an extended, updated list of
 references for **"The Fermi Paradox in Artificial Life"** — a project
 exploring the connections between Artificial Life (ALife) and the Search
-for Extraterrestrial Intelligence (SETI). Updated versions of the paper
-and presentation will be linked from the site as they become available.
+for Extraterrestrial Intelligence (SETI).
+
+**Conference paper:**
+Karelin, G. (2025). *The Fermi Paradox in Artificial Life.*
+In *ALIFE 2025: Ciphers of Life — Proceedings of the Artificial Life
+Conference 2025*, Kyoto, Japan, 6–10 October 2025, p. 11. ASME.
+DOI: [10.1162/ISAL.a.839](https://doi.org/10.1162/ISAL.a.839)
+
+Updated versions of the paper and presentation will be linked from the
+site as they become available.
 
 ## Contributing references
 
