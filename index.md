@@ -7,7 +7,7 @@ description: A project applying the Fermi Paradox and the Great Filter framework
 <p style="font-size:0.9rem; color:#666; margin: 0 0 1rem;">
   &larr; <a href="https://karegeo.github.io/">karegeo.github.io</a>
   (main page) &nbsp;·&nbsp;
-  <strong>Last updated:</strong> 18 May 2026, 05:08 UTC
+  <strong>Last updated:</strong> 25 June 2026, 08:22 UTC
 </p>
 
 > *"Where is everybody?"* &mdash; Enrico Fermi
@@ -262,6 +262,15 @@ the repository.
 - **Garrett, M. A.** (2024). *Is Artificial Intelligence the Great
   Filter that Makes Advanced Technical Civilisations Rare in the
   Universe?* Acta Astronautica.
+- **Likavčan, L.** (2024). *The Grass of the Universe: Rethinking
+  Technosphere, Planetary History, and Sustainability with Fermi
+  Paradox.* arXiv:2411.08057 — uses the Fermi paradox as a speculative
+  tool to probe planetary history; argues that the technosphere is a
+  transitory layer that should fold back into the biosphere, and that
+  sustainability alone is not the right vector for viable human
+  inhabitation of Earth (proposing *habitability* and *genesity*
+  instead).
+  [arxiv.org/abs/2411.08057](https://arxiv.org/abs/2411.08057)
 
 ### ALife: replicators, open-endedness, and digital abiogenesis
 
@@ -329,6 +338,6 @@ You can also share this page with the QR code below:
 ---
 
 *This site is a living document and is under active construction.*
-*Last updated: 18 May 2026, 05:08 UTC.*
+*Last updated: 25 June 2026, 08:22 UTC.*
 
 [&larr; Back to karegeo.github.io](https://karegeo.github.io/)
